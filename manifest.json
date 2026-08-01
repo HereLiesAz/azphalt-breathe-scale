@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "The text swells slightly in the silences and settles as the voice comes in, so the caption breathes with the audio.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
